@@ -26,7 +26,7 @@ findings, we were able to conclude that the accuracy of the training model
 increases approximately exponentially until it reaches a critical point in which
 the accuracy starts to decline. Additionally, there exists an optimal stage 
 somewhere between the two critical points that provides the maximum detection 
-accuracy
+accuracy.
 
 
 WORK PERIOD
