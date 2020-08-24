@@ -23,7 +23,7 @@ the accuracy starts to decline. Additionally, there exists an optimal stage
 somewhere between the two critical points that provides the maximum detection 
 accuracy.*
 
-<p align="left">
+<p align="centre">
   <img src="./assets/demo.png" alt="Size Limit CLI" width="600">
 </p>
 
