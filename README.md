@@ -1,7 +1,7 @@
 Abstract
 --------
 
-This paper provides a systematic approach of calculating the effectiveness of a 
+*This paper provides a systematic approach of calculating the effectiveness of a 
 Haar Cascade model for detecting objects in a 2d space, in an attempt to 
 construct a relationship between the accuracy and training stage. During the 
 investigation, we used a set of 2000 positive and 1000 negative images to train
@@ -21,7 +21,7 @@ findings, we were able to conclude that the accuracy of the training model
 increases approximately exponentially until it reaches a critical point in which
 the accuracy starts to decline. Additionally, there exists an optimal stage 
 somewhere between the two critical points that provides the maximum detection 
-accuracy.
+accuracy.*
 
 
 Work Period
@@ -36,4 +36,4 @@ End Date: 2020-06-04
 Data and Source Code
 --------------------
 
-`Data and source code used to conduct the research is available on request`
+*Data and source code used to conduct the research is available on request*
